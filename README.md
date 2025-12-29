@@ -6,9 +6,9 @@
 [![Documentation](https://docs.rs/daa-orchestrator/badge.svg)](https://docs.rs/daa-orchestrator)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Rust](https://img.shields.io/badge/rust-1.75+-93450a.svg?logo=rust)](https://www.rust-lang.org/)
-[![Built with QuDAG](https://img.shields.io/badge/Built%20with-QuDAG-blue)](https://github.com/ruvnet/qudag)
-[![NAPI Build](https://github.com/ruvnet/daa/actions/workflows/napi-build.yml/badge.svg)](https://github.com/ruvnet/daa/actions/workflows/napi-build.yml)
-[![NAPI Test](https://github.com/ruvnet/daa/actions/workflows/napi-test.yml/badge.svg)](https://github.com/ruvnet/daa/actions/workflows/napi-test.yml)
+[![Built with QuDAG](https://img.shields.io/badge/Built%20with-QuDAG-blue)](https://github.com/davidakpele/qudag)
+[![NAPI Build](https://github.com/davidakpele/daa/actions/workflows/napi-build.yml/badge.svg)](https://github.com/davidakpele/daa/actions/workflows/napi-build.yml)
+[![NAPI Test](https://github.com/davidakpele/daa/actions/workflows/napi-test.yml/badge.svg)](https://github.com/davidakpele/daa/actions/workflows/napi-test.yml)
 
 ---
 
@@ -509,7 +509,7 @@ RUST_LOG=daa_prime=trace cargo run
 
 ## 🔗 QuDAG Integration
 
-The DAA SDK leverages [QuDAG](https://github.com/ruvnet/qudag) for quantum-resistant infrastructure:
+The DAA SDK leverages [QuDAG](https://github.com/davidakpele/qudag) for quantum-resistant infrastructure:
 
 ### 🛡️ **Quantum Security**
 - **ML-DSA-87** signatures for authentication
@@ -610,12 +610,12 @@ economy.reward_training_contribution(trainer_id, quality_score).await?;
 We welcome contributions from the community! Here's how to get involved:
 
 ### 🐛 **Bug Reports**
-- Use our [issue tracker](https://github.com/ruvnet/daa/issues)
+- Use our [issue tracker](https://github.com/davidakpele/daa/issues)
 - Include minimal reproduction steps
 - Specify your environment details
 
 ### 💡 **Feature Requests**
-- Discuss ideas in [GitHub Discussions](https://github.com/ruvnet/daa/discussions)
+- Discuss ideas in [GitHub Discussions](https://github.com/davidakpele/daa/discussions)
 - Follow our [feature request template](/.github/ISSUE_TEMPLATE/feature_request.md)
 
 ### 🔧 **Code Contributions**
@@ -688,7 +688,7 @@ This project is dual-licensed under MIT OR Apache-2.0 - see the [LICENSE](LICENS
 
 ## 🙏 Acknowledgments
 
-- **[QuDAG](https://github.com/ruvnet/qudag)** - Quantum-resistant infrastructure foundation
+- **[QuDAG](https://github.com/davidakpele/qudag)** - Quantum-resistant infrastructure foundation
 - **[Anthropic](https://anthropic.com)** - Claude AI integration and partnership  
 - **[Rust Community](https://www.rust-lang.org/community)** - Amazing ecosystem and tools
 - **Early Contributors** - Thank you for testing and feedback
@@ -699,8 +699,8 @@ This project is dual-licensed under MIT OR Apache-2.0 - see the [LICENSE](LICENS
 
 **🌟 Star us on GitHub if you find DAA useful!**
 
-[![GitHub stars](https://img.shields.io/github/stars/ruvnet/daa.svg?style=social&label=Star)](https://github.com/ruvnet/daa/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ruvnet/daa.svg?style=social&label=Fork)](https://github.com/ruvnet/daa/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/davidakpele/daa.svg?style=social&label=Star)](https://github.com/davidakpele/daa/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/davidakpele/daa.svg?style=social&label=Fork)](https://github.com/davidakpele/daa/network/members)
 
 *Built with ❤️ by the DAA community*
 
@@ -737,8 +737,8 @@ The DAA SDK represents a significant engineering effort with comprehensive imple
 
 **🌟 Star us on GitHub if you find DAA useful\!**
 
-[\![GitHub stars](https://img.shields.io/github/stars/ruvnet/daa.svg?style=social&label=Star)](https://github.com/ruvnet/daa/stargazers)
-[\![GitHub forks](https://img.shields.io/github/forks/ruvnet/daa.svg?style=social&label=Fork)](https://github.com/ruvnet/daa/network/members)
+[\![GitHub stars](https://img.shields.io/github/stars/davidakpele/daa.svg?style=social&label=Star)](https://github.com/davidakpele/daa/stargazers)
+[\![GitHub forks](https://img.shields.io/github/forks/davidakpele/daa.svg?style=social&label=Fork)](https://github.com/davidakpele/daa/network/members)
 
 *Built with ❤️ by the DAA community*
 
